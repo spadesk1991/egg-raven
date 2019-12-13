@@ -28,7 +28,7 @@ Description here.
 
 ### 依赖的 egg 版本
 
-egg-raven 版本 | egg 1.x
+egg2-raven 版本 | egg 1.x
 --- | ---
 1.x | 😁
 0.x | ❌
@@ -49,7 +49,7 @@ egg-raven 版本 | egg 1.x
 // config/plugin.js
 exports.raven = {
   enable: true,
-  package: 'egg-raven',
+  package: 'egg2-raven',
 };
 ```
 

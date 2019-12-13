@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg-raven --save
+$ npm i egg2-raven --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg-raven --save
 // {app_root}/config/plugin.js
 exports.raven = {
   enable: true,
-  package: 'egg-raven',
+  package: 'egg2-raven',
 };
 ```
 
@@ -45,6 +45,7 @@ exports.raven = {
 ```js
 // {app_root}/config/config.default.js
 exports.raven = {
+  url:""
 };
 ```
 
