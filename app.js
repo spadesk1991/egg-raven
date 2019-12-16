@@ -1,5 +1,5 @@
 'use strict';
 
-module.exports = app=> {
+module.exports = app => {
   if (app.config.raven.url) require('./lib/raven')(app);
 };
