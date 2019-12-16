@@ -1,6 +1,6 @@
 {
   "name": "egg2-raven",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "egg sentry",
   "eggPlugin": {
     "name": "raven"
