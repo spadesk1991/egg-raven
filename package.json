@@ -1,6 +1,6 @@
 {
   "name": "egg2-raven",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "egg sentry",
   "eggPlugin": {
     "name": "raven"
@@ -52,12 +52,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-raven.git"
+    "url": "git+https://github.com/spadesk1991/egg-raven.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/spadesk1991/egg-raven/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-raven#readme",
+  "homepage": "https://github.com/spadesk1991/egg-raven#readme",
   "author": "spadesk",
   "license": "MIT"
 }
