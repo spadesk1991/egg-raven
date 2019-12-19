@@ -27,7 +27,7 @@ Description here.
 ## Install
 
 ```bash
-$ npm i egg2-raven --save
+$ npm i egg-raven-sentry --save
 ```
 
 ## Usage
@@ -36,7 +36,7 @@ $ npm i egg2-raven --save
 // {app_root}/config/plugin.js
 exports.raven = {
   enable: true,
-  package: 'egg2-raven',
+  package: 'egg-raven-sentry',
 };
 ```
 
@@ -57,7 +57,7 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 ## Questions & Suggestions
 
-Please open an issue [here](https://github.com/eggjs/egg/issues).
+Please open an issue [here](https://github.com/spadesk1991/egg-raven/issues).
 
 ## License
 
