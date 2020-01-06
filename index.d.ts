@@ -7,7 +7,8 @@ import * as  Raven from 'raven';
      // extend your config
     export interface EggAppConfig {
         raven: {
-            url:String
+            url:String,
+            options: Raven.ConstructorOptions
         }
     }
   };

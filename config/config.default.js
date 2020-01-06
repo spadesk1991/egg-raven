@@ -6,5 +6,6 @@
  * @property {String} SOME_KEY - some description
  */
 exports.raven = {
-    url: ''
+  url: '',
+  options: {},
 };
